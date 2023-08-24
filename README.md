@@ -14,5 +14,5 @@
 
 <img src="https://avatars.githubusercontent.com/u/102824215?v=4" height="35px"> **[ • José Augusto](https://github.com/JoseAugusto83 " • José Augusto")**
 
-<img src="https://avatars.githubusercontent.com/u/1?v=101585750=4" height="35px"> **[ • Lucas Hideki Tamagawa](https://github.com/LucasTamagawa " • Lucas Hideki Tamagawa")**
+<img src="https://avatars.githubusercontent.com/u/101585750?v=4" height="35px"> **[ • Lucas Hideki Tamagawa](https://github.com/LucasTamagawa " • Lucas Hideki Tamagawa")**
 
