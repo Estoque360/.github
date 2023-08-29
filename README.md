@@ -11,9 +11,9 @@ https://docs.google.com/document/d/1wc9tI0jCRoP9-CAvv3DqXCGzALkrsbN0r9AzNmozgp8/
 
 <img src="https://avatars.githubusercontent.com/u/102822602?v=4" height="35px"> **[ • Igor Galvão](https://github.com/IgorGalvao1 " • Igor Galvão")**
 
-<img src="https://avatars.githubusercontent.com/u/78259587?v=4" height="35px"> **[ • Jõao Paulo Padilha](https://github.com/lucasfinotirodrigues " • Jõao Paulo Padilha")**
+<img src="https://avatars.githubusercontent.com/u/78259587?v=4" height="35px"> **[ • Jõao Paulo Padilha](https://github.com/ " • Jõao Paulo Padilha")**
 
-<img src="https://avatars.githubusercontent.com/u/100220214?v=4" height="35px"> **[ • Jõao Pedro Padilha](https://github.com/Ricardoxt1 " • João Pedro Padilha")**
+<img src="https://avatars.githubusercontent.com/u/100220214?v=4" height="35px"> **[ • Jõao Pedro Padilha](https://github.com/ " • João Pedro Padilha")**
 
 <img src="https://avatars.githubusercontent.com/u/102824215?v=4" height="35px"> **[ • José Augusto](https://github.com/JoseAugusto83 " • José Augusto")**
 
