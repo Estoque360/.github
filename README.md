@@ -4,6 +4,9 @@ https://docs.google.com/document/d/1wc9tI0jCRoP9-CAvv3DqXCGzALkrsbN0r9AzNmozgp8/
 ## 🗓 Cronograma
   https://docs.google.com/spreadsheets/d/1UHFe8aoYhzDZLRq5QdTSOIq05xhOhVZVWeb0RpRWg3g/edit?usp=sharing
 
+## 🖼️ Protótipo
+https://www.figma.com/file/GGCAOV79sAoqWCOC60cUuT/Estoque360?type=design&node-id=0%3A1&mode=design&t=jkcES4osLtop5pzn-1
+
 ## 🤝 Colaboradores
 
 
